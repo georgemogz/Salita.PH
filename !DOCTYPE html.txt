@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Facebook Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <div class="navbar">
+            <a href="/" class="logo">Your Brand</a>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
+                <li><a href="https://www.facebook.com/yourpage" target="_blank">Facebook</a></li>
+            </ul>
+        </div>
+    </header>
+
+    <section class="hero">
+        <h1>Welcome to Our Website</h1>
+        <p>Stay updated with our latest news and updates on Facebook!</p>
+        <a href="https://www.facebook.com/yourpage" class="cta-button" target="_blank">Visit Our Facebook</a>
+    </section>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>We are dedicated to providing the best content on Facebook. Follow us for updates, news, and exciting content.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>If you have any questions, feel free to reach out to us!</p>
+        <a href="mailto:your-email@example.com">Email Us</a>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Your Brand | All Rights Reserved</p>
+    </footer>
+
+</body>
+</html>
